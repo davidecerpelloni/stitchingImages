@@ -1,2 +1,2 @@
 # stitchingImages
-this script sstitching two images together
+this script stitching two images together
